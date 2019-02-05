@@ -1,6 +1,6 @@
-# OOPLab4_5
+Multithreaded-bruteforce-optimization
 
-Simple concurrency factorization with singleton writer with threadsafe queue(just for interesting)
+Simple concurrency factorization with singleton writer with threadsafe queue(just for interesting) in C++11
 
 Use -i filename to set input file
 
